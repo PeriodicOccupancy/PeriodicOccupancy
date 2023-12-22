@@ -7,7 +7,8 @@
 # My Portfolio
 
 ## My Projects
-### Stock Predictor 
+
+### [Stock Predictor](https://github.com/PeriodicOccupancy/WGU_Captstone-Stock-Predictor)
 Python; Jupyter Notebook | WGU C964 CompSci Capstone
 
   
@@ -21,7 +22,7 @@ Python; Jupyter Notebook | WGU C964 CompSci Capstone
 
   ●	Predicts stocks up to 7 days in advance within $5-$15 of actual price
 
-### Delivery Route Optimization  
+### [Delivery Route Optimization](https://github.com/PeriodicOccupancy/SchoolProject_DeliveryOptimization)
 Python; PyCharm Community Edition | WGU C950 Data Structures and Algorithms II
 
 
@@ -32,7 +33,7 @@ Python; PyCharm Community Edition | WGU C950 Data Structures and Algorithms II
   ● No libraries used. all functions self-written
 
 
-### Appointment Database Client 
+### [Appointment Database Client](https://github.com/PeriodicOccupancy/DatabaseClientApp/tree/master) 
 Java, JavaFX, PostgrSQL; IntelliJ, SceneBuilder, MySQL | WGU C195 Software II
 
 
