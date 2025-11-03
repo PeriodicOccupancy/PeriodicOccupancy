@@ -1,7 +1,7 @@
 ### Hello there 👋 
-  - 🔭 I’m currently searching for opportunities working in software. Preferably on Machine Learning but am eager to work coding any type of application.
-  - 🌱 I’m currently learning Frontend GUI development in Javascript/Python through Pluralsight to enhance my capabilities as a Full Stack Engineer.
-  - 👯 I’m currently working on a simple soundboard to develop my programming skills.
+  - 🔭 I’m currently actively searching for opportunities working in tech. Preferably in Software.
+  - 🌱 I intend to be a life long learner but currently I am struggling to find the time to develop my skills.
+  - 👯 I’m currently working full-time in an unrelated industry with little time to devote to my personal projects unfortunately.
   - 📫 How to reach me: Connect with me on LinkedIn through the link on my profile.
 
 # My Portfolio
